@@ -1,0 +1,6 @@
+{
+  "name": "Tra Cứu Lịch Sử",
+  "description": "Ứng dụng tra cứu lịch sử Việt Nam và Thế giới, sự kiện hôm nay trong lịch sử, dòng thời gian và trắc nghiệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
